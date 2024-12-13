@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -19,26 +22,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.GUI.executor&quot;: &quot;Run&quot;,
-    &quot;JAR Application.cursach-1.0.jar.executor&quot;: &quot;Run&quot;,
-    &quot;JAR Application.original-cursach-1.0.jar.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.cursach [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.cursach [install].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Guts enjoyer/IdeaProjects/cursach&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GUI.executor": "Run",
+    "JAR Application.cursach-1.0.jar.executor": "Run",
+    "JAR Application.original-cursach-1.0.jar.executor": "Run",
+    "Maven.cursach [clean].executor": "Run",
+    "Maven.cursach [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Guts enjoyer/IdeaProjects/cursach",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Guts enjoyer\IdeaProjects\cursach\cursach\out" />
       <recent name="C:\Users\Guts enjoyer\IdeaProjects\cursach\cursach" />
+      <recent name="C:\Users\Guts enjoyer\IdeaProjects\cursach\cursach\out" />
     </key>
   </component>
   <component name="RunManager" selected="JAR Application.cursach-1.0.jar">
