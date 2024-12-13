@@ -1,0 +1,65 @@
+@startuml
+hide empty members
+skinparam linetype ortho
+
+abstract class Figure {
+    - color : Color
+    - scaleFactor : double
+    + draw(gc : GraphicsContext, x : double, y : double, fill : boolean) : void
+}
+
+class Line extends Figure {
+    - lineWidth : double
+    - length : double
+}
+
+class Circle extends Figure {
+}
+
+class Rectangle extends Figure {
+}
+
+class Triangle extends Figure {
+}
+
+class Parabola extends Figure {
+    - lineWidth : double
+    - width : double
+    - heightMultiplier : double
+}
+
+class Trapezoid extends Figure {
+}
+
+class Generator {
+    - minX : double
+    - maxX : double
+    - minY : double
+    - maxY : double
+    - numFigures : int[]
+    - density : double
+    - gridSpacing : double
+    - figureTypes : List<Figure>
+    - fillFigures : boolean
+    + draw(gc : GraphicsContext) : void
+    - pickFigureType(figuresDrawn : int[], numFigures : int[]) : int
+}
+
+class GUI {
+    - minXField : TextField
+    - maxXField : TextField
+    - minYField : TextField
+    - maxYField : TextField
+    - densitySlider : Slider
+    - gridSizeSlider : Slider
+    - fillCheckBox : CheckBox
+    - figureCheckboxes : List<CheckBox>
+    - numFigureFields : List<TextField>
+    + handleGenerateButton(...) : void
+}
+
+
+GUI "1" -- "1" Generator : uses
+Generator "1" -- "*" Figure : uses
+
+@enduml

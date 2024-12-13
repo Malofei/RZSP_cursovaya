@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="yalubluivana:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/yalubluivana_jar</output-path>
+    <root id="archive" name="yalubluivana.jar">
+      <element id="module-output" name="yalubluivana" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Загрузки/javafx-sdk-22.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.6/javafx-graphics-17.0.6-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.6/javafx-controls-17.0.6-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/controlsfx/controlsfx/11.2.1/controlsfx-11.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.6/javafx-base-17.0.6-linux.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.6/javafx-fxml-17.0.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/kordamp/bootstrapfx/bootstrapfx-core/0.4.0/bootstrapfx-core-0.4.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
